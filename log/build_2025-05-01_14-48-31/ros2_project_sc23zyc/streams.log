@@ -1,0 +1,52 @@
+[1.006s] Invoking command in '/uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc': PS1=[COMP3631] Singularity> \w $ PYTHONPATH=/uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/prefix_override:/uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base build/ros2_project_sc23zyc build --build-base /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build install --record /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/install.log --single-version-externally-managed
+[1.271s] running egg_info
+[1.272s] creating build/ros2_project_sc23zyc/ros2_project_sc23zyc.egg-info
+[1.274s] writing build/ros2_project_sc23zyc/ros2_project_sc23zyc.egg-info/PKG-INFO
+[1.279s] writing dependency_links to build/ros2_project_sc23zyc/ros2_project_sc23zyc.egg-info/dependency_links.txt
+[1.282s] writing entry points to build/ros2_project_sc23zyc/ros2_project_sc23zyc.egg-info/entry_points.txt
+[1.284s] writing requirements to build/ros2_project_sc23zyc/ros2_project_sc23zyc.egg-info/requires.txt
+[1.285s] writing top-level names to build/ros2_project_sc23zyc/ros2_project_sc23zyc.egg-info/top_level.txt
+[1.289s] writing manifest file 'build/ros2_project_sc23zyc/ros2_project_sc23zyc.egg-info/SOURCES.txt'
+[1.302s] reading manifest file 'build/ros2_project_sc23zyc/ros2_project_sc23zyc.egg-info/SOURCES.txt'
+[1.305s] writing manifest file 'build/ros2_project_sc23zyc/ros2_project_sc23zyc.egg-info/SOURCES.txt'
+[1.308s] running build
+[1.309s] running build_py
+[1.309s] creating /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build
+[1.310s] creating /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build/lib
+[1.311s] creating /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build/lib/ros2_project_sc23zyc
+[1.313s] copying ros2_project_sc23zyc/Skeleton_Code_First_Step.py -> /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build/lib/ros2_project_sc23zyc
+[1.316s] copying ros2_project_sc23zyc/Skeleton_Code_Fourth_Step.py -> /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build/lib/ros2_project_sc23zyc
+[1.321s] copying ros2_project_sc23zyc/Skeleton_Code_Second_Step.py -> /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build/lib/ros2_project_sc23zyc
+[1.327s] copying ros2_project_sc23zyc/Skeleton_Code_Third_Step.py -> /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build/lib/ros2_project_sc23zyc
+[1.331s] copying ros2_project_sc23zyc/__init__.py -> /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build/lib/ros2_project_sc23zyc
+[1.336s] copying ros2_project_sc23zyc/first_step.py -> /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build/lib/ros2_project_sc23zyc
+[1.342s] copying ros2_project_sc23zyc/cwk_code.py -> /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build/lib/ros2_project_sc23zyc
+[1.347s] running install
+[1.347s] running install_lib
+[1.352s] creating /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages/ros2_project_sc23zyc
+[1.354s] copying /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build/lib/ros2_project_sc23zyc/Skeleton_Code_First_Step.py -> /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages/ros2_project_sc23zyc
+[1.360s] copying /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build/lib/ros2_project_sc23zyc/Skeleton_Code_Fourth_Step.py -> /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages/ros2_project_sc23zyc
+[1.365s] copying /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build/lib/ros2_project_sc23zyc/Skeleton_Code_Second_Step.py -> /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages/ros2_project_sc23zyc
+[1.372s] copying /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build/lib/ros2_project_sc23zyc/Skeleton_Code_Third_Step.py -> /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages/ros2_project_sc23zyc
+[1.377s] copying /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build/lib/ros2_project_sc23zyc/__init__.py -> /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages/ros2_project_sc23zyc
+[1.381s] copying /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build/lib/ros2_project_sc23zyc/first_step.py -> /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages/ros2_project_sc23zyc
+[1.387s] copying /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build/lib/ros2_project_sc23zyc/cwk_code.py -> /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages/ros2_project_sc23zyc
+[1.394s] byte-compiling /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages/ros2_project_sc23zyc/Skeleton_Code_First_Step.py to Skeleton_Code_First_Step.cpython-310.pyc
+[1.401s] byte-compiling /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages/ros2_project_sc23zyc/Skeleton_Code_Fourth_Step.py to Skeleton_Code_Fourth_Step.cpython-310.pyc
+[1.408s] byte-compiling /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages/ros2_project_sc23zyc/Skeleton_Code_Second_Step.py to Skeleton_Code_Second_Step.cpython-310.pyc
+[1.415s] byte-compiling /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages/ros2_project_sc23zyc/Skeleton_Code_Third_Step.py to Skeleton_Code_Third_Step.cpython-310.pyc
+[1.424s] byte-compiling /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages/ros2_project_sc23zyc/__init__.py to __init__.cpython-310.pyc
+[1.431s] byte-compiling /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages/ros2_project_sc23zyc/first_step.py to first_step.cpython-310.pyc
+[1.441s] byte-compiling /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages/ros2_project_sc23zyc/cwk_code.py to cwk_code.cpython-310.pyc
+[1.454s] running install_data
+[1.456s] creating /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/share/ament_index
+[1.458s] creating /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/share/ament_index/resource_index
+[1.459s] creating /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/share/ament_index/resource_index/packages
+[1.462s] copying resource/ros2_project_sc23zyc -> /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/share/ament_index/resource_index/packages
+[1.469s] copying package.xml -> /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/share/ros2_project_sc23zyc
+[1.474s] running install_egg_info
+[1.479s] Copying build/ros2_project_sc23zyc/ros2_project_sc23zyc.egg-info to /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages/ros2_project_sc23zyc-0.0.0-py3.10.egg-info
+[1.535s] running install_scripts
+[1.566s] Installing navigation script to /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/ros2_project_sc23zyc
+[1.571s] writing list of installed files to '/uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/install.log'
+[1.615s] Invoked command in '/uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc' returned '0': PS1=[COMP3631] Singularity> \w $ PYTHONPATH=/uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/prefix_override:/uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/install/ros2_project_sc23zyc/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base build/ros2_project_sc23zyc build --build-base /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/build install --record /uolstore/home/student_lnxhome01/sc23zyc/ros2_ws/src/ros2_project_sc23zyc/build/ros2_project_sc23zyc/install.log --single-version-externally-managed
